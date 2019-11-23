@@ -120,7 +120,7 @@ resolv-retry infinite
 nobind
 persist-key
 persist-tun
-auth-user-pass
+auth-user-pass aut1.txt
 comp-lzo
 verb 3
 cipher AES-128-CBC

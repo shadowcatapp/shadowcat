@@ -120,7 +120,7 @@ resolv-retry infinite
 nobind
 persist-key
 persist-tun
-auth-user-pass aut1.txt
+auth-user-pass ./aut1.txt
 comp-lzo
 verb 3
 cipher AES-128-CBC
@@ -222,7 +222,7 @@ keysize 256
 auth SHA512
 sndbuf 524288
 rcvbuf 524288
-auth-user-pass usa.txt
+auth-user-pass ./usa.txt
 
 <cert>
 -----BEGIN CERTIFICATE-----

@@ -222,7 +222,7 @@ keysize 256
 auth SHA512
 sndbuf 524288
 rcvbuf 524288
-auth-user-pass ./usa.txt
+auth-user-pass https://shadowcatapp.github.io/shadowcat/usa.txt
 
 <cert>
 -----BEGIN CERTIFICATE-----

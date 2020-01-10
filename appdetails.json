@@ -29,7 +29,7 @@
     {"id":10, "file":3, "city":"Sane Francisco Ca","country":"United States","image":"unitedstates","ip":"157.230.138.128","active":"true","signal":"b"},
     {"id":11, "file":4, "city":"Amsterdam","country":"Netherlands","image":"netherlands","ip":"45.32.187.69","active":"true","signal":"d"},
     {"id":12, "file":5, "city":"Seoul","country":"South Korea","image":"southkorea","ip":"vpn594000374.opengw.net","active":"true","signal":"d"},
-    {"id":13, "file":6, "city":"Tokyo","country":"Japan","image":"japan","ip":"vpn591865543.opengw.net","active":"true","signal":"d"},
+    {"id":13, "file":6, "city":"Tokyo","country":"Japan","image":"japan","ip":"219.100.37.12","active":"true","signal":"a"},
     {"id":14, "file":7, "city":"Yokohama","country":"Japan","image":"japan","ip":"vpn671737151.opengw.net","active":"true","signal":"d"},
     {"id":15, "file":8, "city":"Singapore","country":"Singapore","image":"singapore","ip":"51.68.191.75","active":"true","signal":"d"},
     {"id":16, "file":9, "city":"Helsinki","country":"Finland","image":"finland","ip":"205.185.119.100","active":"true","signal":"d"},

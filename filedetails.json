@@ -105,7 +105,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 
 "}]
 },
-{"id":1,"file":"client
+{"id":1,"file":1":"client
 dev tun
 proto tcp
 remote 89.132.129.238 1195
@@ -211,7 +211,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 
 "}]
 },
-  {"id":13,"file":"client
+  {"id":13,"file":6":"client
 dev tun
 proto udp
 remote 219.100.37.12 1195

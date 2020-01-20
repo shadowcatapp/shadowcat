@@ -1,6 +1,6 @@
 {
 "ovpn_file":[
-  {"id":0,"file":"client
+  {"id":0,"file":0"client
 dev tun
 proto udp
 remote 142.59.181.175 1237

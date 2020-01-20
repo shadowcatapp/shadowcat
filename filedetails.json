@@ -3,7 +3,7 @@
   {"id":0,"file":"client
 dev tun
 proto udp
-remote 84.146.32.99 1195
+remote 138.197.78.115 1195
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
@@ -51,7 +51,6 @@ NVOFBkpdn627G190
 -----END CERTIFICATE-----
 
 </ca>
-
 
 <cert>
 -----BEGIN CERTIFICATE-----

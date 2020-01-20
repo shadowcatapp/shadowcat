@@ -2,8 +2,8 @@
 "ovpn_file":[
   {"id":0,"file":"client
 dev tun
-proto tcp
-remote 89.132.129.238 1195
+proto udp
+remote 142.59.181.175 1237
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
@@ -13,7 +13,6 @@ persist-tun
 client
 verb 3
 #auth-user-pass
-
 <ca>
 -----BEGIN CERTIFICATE-----
 MIIF2DCCA8CgAwIBAgIQTKr5yttjb+Af907YWwOGnTANBgkqhkiG9w0BAQwFADCB
